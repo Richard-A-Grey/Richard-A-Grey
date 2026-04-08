@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=220&section=header&text=Richard%20Grey&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20·%20Houston%2C%20TX&descAlignY=58&descSize=18&descColor=888888" width="100%"/>
 </div>
 
-<img src="rg-image.webp" align="right" width="280"/>
+<img src="https://avatars.githubusercontent.com/u/162914429?v=4" align="right" width="280" style="border-radius:12px"/>
 
 ### About me
 
