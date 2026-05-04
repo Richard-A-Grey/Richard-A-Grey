@@ -21,7 +21,7 @@ designed in Figma, gated by Lighthouse CI, shipped to real users.
 
 ![React](https://img.shields.io/badge/React_19-0d0d0d?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Vite](https://img.shields.io/badge/Vite-0d0d0d?style=for-the-badge&logo=vite&logoColor=646CFF)
-![JavaScript](https://img.shields.io/badge/JavaScript-0d0d0d?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-0d0d0d?style=for-the-badge&logo=typescript&logoColor=3178C6)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_v4-0d0d0d?style=for-the-badge&logo=tailwind-css&logoColor=38BDF8)
 ![Supabase](https://img.shields.io/badge/Supabase-0d0d0d?style=for-the-badge&logo=supabase&logoColor=3ECF8E)
 ![Python](https://img.shields.io/badge/Python-0d0d0d?style=for-the-badge&logo=python&logoColor=3776AB)
